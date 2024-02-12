@@ -38,10 +38,10 @@ Flashing with a cheap 3V3 UART FTDI adapter:
 
 ![Swisscom Smart Switch Pinout](images/Flashing.jpg)
 
-TxD = RxD FTDI (yellow)
-RxD = TxD FTDI (orange)
-GND = GND FTDI (black)
-+3.3V = +3.3V FTDI (red)
+    TxD = RxD FTDI (yellow)
+    RxD = TxD FTDI (orange)
+    GND = GND FTDI (black)
+    +3.3V = +3.3V FTDI (red)
 
 GPIO0 and GND shorten during power on 
 
